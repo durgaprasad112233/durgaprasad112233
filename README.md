@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @durgaprasad112233
 - 👀 I’m interested in Technology and Web Development
-- 🌱 I’m currently learning Bachelors of Technology in CSE
+- 🌱 I’m currently pursuing my Bachelors of Technology in CSE From GNI
   - 😄 Pronouns: HE/HIM
 
 
